@@ -5,5 +5,6 @@
 🧠 Currently learning: Python, C++, and data engineering fundamentals.  
 🎨 Capable of digital drawing and visual design using tools like Canva and Photoshop.  
 ⚙️ Tools I use: Python | C++
+
 🌱 Always exploring ways to make data more meaningful and beautiful.  
 📫 Reach me at: farhanaidil2026@gmail.com
