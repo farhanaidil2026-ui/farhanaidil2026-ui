@@ -6,4 +6,4 @@
 🎨 Capable of digital drawing and visual design using tools like Canva, Photoshop, Clip Studio Paint, Krita and many others.  
 ⚙️ Tools I use: Python | C++ | Java     
 🌱 Always exploring ways to make data more meaningful and beautiful.  
-📫 Reach me at: farhanaidil2026@gmail.com | Visit my LinkedIn : Aidil Farhan
+📫 Reach me at: farhanaidil2026@gmail.com | Visit my LinkedIn : www.linkedin.com/in/aidil-farhan-475589396
