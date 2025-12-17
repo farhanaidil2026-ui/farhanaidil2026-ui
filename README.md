@@ -7,3 +7,6 @@
 ⚙️ Tools I use: Python | C++ | Java     
 🌱 Always exploring ways to make data more meaningful and beautiful.  
 📫 Reach me at: farhanaidil2026@gmail.com | Visit my LinkedIn : www.linkedin.com/in/aidil-farhan-475589396
+
+## 📊 GitHub Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafiykimmy&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
