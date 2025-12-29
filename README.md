@@ -1,85 +1,79 @@
 <div align="center">
 
-  <h1>Hello there, I'm Aidil Farhan! &#128516</h1>
+# Hi there, I'm Aidil Farhan! 👋
+### 🎓 Aspiring Data Engineer & Computer Science Student
 
-  <h3>Future Data Engineer | Computer Science Student</h3>
+<p>
+  <em>"Turning raw data into meaningful insights."</em>
+</p>
 
-  <p>
-    I am a freshman with a passion for learning everything about computers. <br>
-    As of now, I am improving my foundations and understanding of computer science.
-  </p>
-
-  <a href="https://www.linkedin.com/in/aidil-farhan-475589396/">
-    <img src="https://img.shields.io/badge/LinkedIn-4CBB17?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:farhanaidil2026@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4CBB17?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/aidil-farhan-475589396/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:farhanaidil2026@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br />
+<hr />
 
-## My Education Over the Years
+## 🚀 About Me
+I am a freshman at **Universiti Teknologi Malaysia (UTM)** with a deep passion for computer science. Currently, I am building a strong foundation in programming and data structures, aiming to specialize in **Data Engineering**.
 
-| Year | Institution | Achievement / Details |
-| :--- | :--- | :--- |
-| **2025 - Present** | **Universiti Teknologi Malaysia (UTM)** | Bachelor of Computer Science (Data Engineering) with Honors |
-| **2024 - 2025** | **Johor Matriculation College** | Physical Science<br>• CGPA: 4.00 <br>• MUET: Band 4.5 |
-| **2019 - 2024** | **SMK Layang-Layang** | SPM: 2A+ 4A 2A- 1B+ 1B |
+When I'm not coding, I'm exploring my creative side through digital art and community leadership.
 
-## Experiences & Achievements
+---
 
-### Universiti Teknologi Malaysia
-- **Committee Member (Activity):** SUSKOM'25 (2025)
-- **Scholarship holder:** Yayasan Sultan Iskandar Scholarship (2025 - 2029)
-- **Industry Talk 1 Participant:** Pittsburgh Paint Company (PPG) (2025)
-- **Industry Talk 2 Participant:** Ts. Hj. Abdul Alim Bin Abdul Muttalib (2025)
-- **ASEAN Quantum Summits Seminar:** Dewan Sultan Iskandar UTM (2025)
+## 🛠️ Tech Stack & Tools
 
-### Johor Matriculation College
-- **Educational Comic National Level (2nd Place):** Matech Fest 2024
-- **Poster & Software Creation National Level (Participation Award):** Matech Fest 2024
-- **SULAM UTHM (Participant):** Python Programming for the next generation of young Data Analysts 2024
-- **Math Olympiad Participant (1st Place):** Math Olympiad Johor Matriculation College (2025 - 2029)
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Productivity** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **Creative** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-3388CC?style=flat-square&logo=krita&logoColor=white) ![Clip Studio](https://img.shields.io/badge/Clip_Studio-164491?style=flat-square&logo=clip-studio-paint&logoColor=white) |
 
-### SMK Layang-Layang
-- **Prefect:** Spiritual Department (2020 - 2024)
-- **President:** Math & Science Club (2024)
+---
 
-## Coursework Repositories
-Check out my assignments and projects for my university subjects:
+## 📚 Education Journey
 
-| Code | Subject | Repository Link |
-| :--- | :--- | :--- |
-| **SECR1013** | Digital Logic | [View Repo](https://github.com/farhanaidil2026-ui/Digital-Logic) |
-| **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/farhanaidil2026-ui/Technology-Information-System) |
-| **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/farhanaidil2026-ui/Programming-Technique-1) |
-| **SECI1013** | Discrete Structure | [View Repo](https://github.com/farhanaidil2026-ui/Discrete-Structure) |
-| **ULRS1032** | Integrity and Anti-Corruption | [View Repo](https://github.com/farhanaidil2026-ui/Integrity-and-Anti-corruption) |
+### 🏛️ Universiti Teknologi Malaysia (2025 - Present)
+**Bachelor of Computer Science (Data Engineering) with Honors**
+* **Scholarship:** Yayasan Sultan Iskandar Scholarship (2025 - 2029)
+* **Involvement:** Committee Member for SUSKOM'25
 
-## Skills & Tools
+### 🧪 Johor Matriculation College (2024 - 2025)
+**Physical Science Stream**
+* **CGPA:** 4.00 | **MUET:** Band 4.5
+* **Awards:** 2nd Place Educational Comic (Matech Fest), Math Olympiad Champion.
 
-- **Programming Languages:** C++, Python, Java
+### 🏫 SMK Layang-Layang (2019 - 2024)
+* **SPM:** 2A+, 4A, 2A-, 1B+, 1B
+* **Leadership:** President of Math & Science Club.
 
-- **Software & Tools:** Visual Studio Code, Canva, Microsoft Word, Google Documents, Google Sheet, Microsoft Excel, Clip Studio Paint, Krita, Photoshop, Capcut
+---
 
-- **Spoken Languages:** Malay (C2), English (C1), Indonesian (C2), Japanese (A2), Korean (A1), Arabic (A1), Mandarin (A1), Spanish (A1)
+## 🗂️ University Coursework
+A collection of my assignments and projects during my time at UTM.
 
+| Code | Subject | Repository |
+| :--- | :--- | :---: |
+| `SECR1013` | **Digital Logic** | [🔗 View](https://github.com/farhanaidil2026-ui/Digital-Logic) |
+| `SECP1513` | **Tech & Info Systems** | [🔗 View](https://github.com/farhanaidil2026-ui/Technology-Information-System) |
+| `SECJ1013` | **Programming Tech 1** | [🔗 View](https://github.com/farhanaidil2026-ui/Programming-Technique-1) |
+| `SECI1013` | **Discrete Structure** | [🔗 View](https://github.com/farhanaidil2026-ui/Discrete-Structure) |
+| `ULRS1032` | **Integrity & Anti-Corruption** | [🔗 View](https://github.com/farhanaidil2026-ui/Integrity-and-Anti-corruption) |
 
+---
+
+## 🌍 Languages
+* **Malay:** Native (C2)
+* **English:** Advanced (C1)
+* **Indonesian:** Native (C2)
+* **Beginner/Basic:** Japanese, Korean, Arabic, Mandarin, Spanish
 
 <br/>
 
-
-
 <div align="center">
-
-
-
-## GitHub Activity
-
-[![Aidil Farhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanaidil2026-ui&bg_color=FFFFFF&color=0BDA51&line=4CBB17&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanaidil2026-ui&show_icons=true&theme=radical" alt="Aidil's Github Stats" />
 </div>
