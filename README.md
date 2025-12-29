@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Aidil Farhan!
 
+https://github.com/farhanaidil2026-ui/farhanaidil2026-ui/blob/main/Gambar%20Profile.jpg?raw=true
+
 🎓 I'm a freshman Data Engineering student passionate about technology, creativity, and continuous learning.  
 💡 I enjoy reading, writing, and designing - combining logic with imagination in both code and art.  
 🧠 Currently learning: Python, C++, Java and computer science (Data Engineering) fundamentals.
