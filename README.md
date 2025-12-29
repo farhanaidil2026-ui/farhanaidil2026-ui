@@ -87,14 +87,17 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 
 ## 🛠️ Technical Skills
 
-```python
-skills = {
-    "languages": ["C++", "Python", "Java"],
-    "dev_tools": ["Visual Studio Code"],
-    "productivity": ["Microsoft Office", "Google Workspace"],
-    "creative": ["Canva", "Clip Studio Paint", "Krita", "Photoshop", "CapCut"]
-}
-```
+**Programming Languages**  
+`C++` `Python` `Java`
+
+**Development Tools**  
+`Visual Studio Code`
+
+**Productivity & Office**  
+`Microsoft Word` `Microsoft Excel` `Google Docs` `Google Sheets`
+
+**Creative Software**  
+`Canva` `Clip Studio Paint` `Krita` `Photoshop` `CapCut`
 
 ## 🌐 Languages I Speak
 
