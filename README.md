@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Aidil Farhan
 
 <div align="center">
-  
-**`Future Data Engineer • CS Student • Lifelong Learner`**
 
 Building my foundation in computer science, one line of code at a time.
 
-[![LinkedIn](https://img.shields.io/badge/Connect-ff0090?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidil-farhan-475589396/)
-[![Email](https://img.shields.io/badge/Email-69359c?style=flat&logo=gmail&logoColor=white)](mailto:farhanaidil2026@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/Connect-ff0090?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidil-farhan-475589396/)
+[![Email](https://img.shields.io/badge/Email-69359c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanaidil2026@gmail.com)
 </div>
 
 ---
@@ -45,6 +42,7 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 - Pittsburgh Paint Company (PPG) Industry Talk
 - Industry Talk with Ts. Hj. Abdul Alim Bin Abdul Muttalib
 - ASEAN Quantum Summits Seminar
+- Festival of Ideas (FOI) Putrajaya
 
 ---
 
