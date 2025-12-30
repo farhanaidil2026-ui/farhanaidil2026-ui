@@ -6,8 +6,8 @@
 
 Building my foundation in computer science, one line of code at a time.
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidil-farhan-475589396/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farhanaidil2026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-ff0090?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidil-farhan-475589396/)
+[![Email](https://img.shields.io/badge/Email-69359c?style=flat&logo=gmail&logoColor=white)](mailto:farhanaidil2026@gmail.com)
 
 </div>
 
