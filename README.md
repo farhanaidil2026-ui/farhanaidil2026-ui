@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Aidil Farhan
-
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aidil%20Farhan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62)
 
 Building my foundation in computer science, one line of code at a time.
 
