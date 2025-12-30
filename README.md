@@ -59,27 +59,27 @@ SPM: 2A+ 4A 2A- 1B+ 1B
   <tr>
     <td><code>SECR1013</code></td>
     <td>Digital Logic</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Digital-Logic">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECR1013-Digital-Logic">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECP1513</code></td>
-    <td>Technology & Info Systems</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Technology-Information-System">🔗 View</a></td>
+    <td>Technology & Information Systems</td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECP1513-Technology%20%26%20Information%20System">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECJ1013</code></td>
     <td>Programming Technique 1</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Programming-Technique-1">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECJ1013-Programming-1">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECI1013</code></td>
     <td>Discrete Structure</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Discrete-Structure">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECI1013-Discrete-Structure">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>ULRS1032</code></td>
     <td>Integrity and Anti-Corruption</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Integrity-and-Anti-corruption">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
   </tr>
 </table>
 
