@@ -41,6 +41,7 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 - Industry Talk with Ts. Hj. Abdul Alim Bin Abdul Muttalib
 - ASEAN Quantum Summits Seminar
 - Festival of Ideas (FOI) Putrajaya
+- Visit to JCorp
 
 ---
 
