@@ -115,6 +115,6 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 
 <div align="center">
 
-⭐ Feel free to explore my repositories and connect with me!
+
 
 </div>
