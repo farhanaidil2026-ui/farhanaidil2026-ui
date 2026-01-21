@@ -42,6 +42,7 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 - ASEAN Quantum Summits Seminar
 - Festival of Ideas (FOI) Putrajaya
 - Industry Visit to JCorp
+- Industry Talk with Qaisana Rohzan (Application Developer Analyst II at PPG)
 
 ---
 
