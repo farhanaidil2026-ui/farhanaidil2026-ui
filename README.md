@@ -38,7 +38,7 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 
 ### 🎤 Industry Engagement
 - Pittsburgh Paint Company (PPG) Industry Talk
-- Industry Talk with Ts. Hj. Abdul Alim Bin Abdul Muttalib
+- Industry Talk with Ts. Hj. Abdul Alim Bin Abdul Muttalib (Head of Technology and Innovation of Serunai Commerce Sdn Bhd)
 - ASEAN Quantum Summits Seminar
 - Festival of Ideas (FOI) Putrajaya
 - Industry Visit to JCorp
