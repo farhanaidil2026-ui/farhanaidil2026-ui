@@ -99,8 +99,8 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 
 ## 🌐 Languages I Speak
 
-**Fluent:** Malay • English • Indonesian
-**Learning:** Japanese • Korean • Arabic • Mandarin • Spanish • Sign Language
+**Fluent:** Malay (C2) • English (C1) • Indonesian (C2)
+**Learning:** Japanese (A2) • Korean (A1) • Arabic (A1) • Mandarin (A2) • Spanish (A1) • Sign Language (A2)
 
 ---
 
@@ -115,7 +115,5 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 ---
 
 <div align="center">
-
-
 
 </div>
