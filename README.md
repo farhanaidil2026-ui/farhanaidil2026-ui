@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aidil%20Farhan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62)
-fsddgffsfsf
+
 [![LinkedIn](https://img.shields.io/badge/Connect-ff0090?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidil-farhan-475589396/)
 [![Email](https://img.shields.io/badge/Email-69359c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanaidil2026@gmail.com)
 </div>
