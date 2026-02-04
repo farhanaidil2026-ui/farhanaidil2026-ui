@@ -1,23 +1,30 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aidil%20Farhan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect-ff0090?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidil-farhan-475589396/)
-[![Email](https://img.shields.io/badge/Email-69359c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanaidil2026@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aidil%20Farhan&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aidil-farhan-475589396/">
+  <img src="https://img.shields.io/badge/Connect-ff0090?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:farhanaidil2026@gmail.com">
+  <img src="https://img.shields.io/badge/Email-69359c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
 ## 🎓 Academic Journey
 
-**Universiti Teknologi Malaysia (UTM)** • *2025 - Present*  
-Bachelor of Computer Science (Data Engineering) with Honors  
+**Universiti Teknologi Malaysia (UTM)** • *2025 - Present* Bachelor of Computer Science (Data Engineering) with Honors  
 🏆 Yayasan Sultan Iskandar Scholarship Recipient
 
-**Johor Matriculation College** • *2024 - 2025*  
-Physical Science • CGPA: 4.00 • MUET: Band 4.5  
+**Johor Matriculation College** • *2024 - 2025* Physical Science • CGPA: 4.00 • MUET: Band 4.5  
 🥈 2nd Place - Educational Comic (National Level, Matech Fest 2024)
 
-**SMK Layang-Layang** • *2019 - 2024*  
-SPM: 2A+ 4A 2A- 1B+ 1B
+**SMK Layang-Layang** • *2019 - 2024* SPM: 2A+ 4A 2A- 1B+ 1B
 
 ---
 
@@ -83,21 +90,17 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**  
-`C++` `Python` `Java`
+**Programming Languages** `C++` `Python` `Java`
 
-**Development Tools**  
-`Visual Studio Code`
+**Development Tools** `Visual Studio Code`
 
-**Productivity & Office**  
-`Microsoft Word` `Microsoft Excel` `Google Docs` `Google Sheets`
+**Productivity & Office** `Microsoft Word` `Microsoft Excel` `Google Docs` `Google Sheets`
 
-**Creative Software**  
-`Canva` `Clip Studio Paint` `Krita` `Photoshop` `CapCut`
+**Creative Software** `Canva` `Clip Studio Paint` `Krita` `Photoshop` `CapCut`
 
 ## 🌐 Languages I Speak
 
-**Fluent:** Malay (C2) • English (C1) • Indonesian (C2)
+**Fluent:** Malay (C2) • English (C1) • Indonesian (C2)  
 **Learning:** Japanese (A2) • Korean (A1) • Arabic (A1) • Mandarin (A2) • Spanish (A1) • Sign Language (A2)
 
 ---
@@ -107,11 +110,5 @@ SPM: 2A+ 4A 2A- 1B+ 1B
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanaidil2026-ui&theme=github-compact&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
 
 </div>
