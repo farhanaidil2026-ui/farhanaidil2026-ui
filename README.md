@@ -65,32 +65,32 @@
   </tr>
   <tr>
     <td><code>SECI1143</code></td>
-    <td>PROBABILITY & STATISTICAL DATA ANALYSIS</td>
+    <td>Probability And Statistical Data Analysis</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECR1013-Digital-Logic">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECP1513</code></td>
-    <td>SYSTEM ANALYSIS AND DESIGN (WBL)</td>
+    <td>System Analysis And Design (WBL)</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECP1513-Technology%20%26%20Information%20System">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECJ1023</code></td>
-    <td>PROGRAMMING TECHNIQUE II</td>
+    <td>Programming Technique II</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECJ1013-Programming-1">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECV2113</code></td>
-    <td>HUMAN COMPUTER INTERACTION</td>
+    <td>Human Computer Interaction</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECI1013-Discrete-Structure">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECR1033</code></td>
-    <td>COMPUTER ORGANIZATION AND ARCHITECTURE</td>
+    <td>Computer Organization And Architecture</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>ULRS1182</code></td>
-    <td>APPRECIATION OF ETHICS AND CIVILIZATIONS</td>
+    <td>Appreciation Of Ethics And Civilization</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
   </tr>
 </table>
