@@ -99,9 +99,9 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages** `C++` `Python` `Java`
+**Programming Languages** `C++` `Python` `Java` `SQL`
 
-**Development Tools** `Visual Studio Code`
+**Development Tools** `Visual Studio Code` `IDE`
 
 **Productivity & Office** `Microsoft Word` `Microsoft Excel` `Google Docs` `Google Sheets`
 
