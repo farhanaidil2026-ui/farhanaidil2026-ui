@@ -66,32 +66,32 @@
   <tr>
     <td><code>SECI1143</code></td>
     <td>Probability And Statistical Data Analysis</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECR1013-Digital-Logic">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem2-Courses/tree/main/SECI1143-Probability%20%26%20Statistical%20Data%20Analysis">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECP1513</code></td>
     <td>System Analysis And Design (WBL)</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECP1513-Technology%20%26%20Information%20System">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem2-Courses/tree/main/SECP2613-System%20Analysis%20%26%20Design%20(WBL)">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECJ1023</code></td>
     <td>Programming Technique II</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECJ1013-Programming-1">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem2-Courses/tree/main/SECJ1023-Programming%20Technique%20II">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECV2113</code></td>
     <td>Human Computer Interaction</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECI1013-Discrete-Structure">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem2-Courses/tree/main/SECV2113-Human%20Computer%20Interaction">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECR1033</code></td>
     <td>Computer Organization And Architecture</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem2-Courses/tree/main/SECR1033-Computer%20Organization%20And%20Architecture">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>ULRS1182</code></td>
-    <td>Appreciation Of Ethics And Civilization</td>
-    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
+    <td>Appreciation Of Ethics And Civilizations</td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem2-Courses/tree/main/ULRS1182-Appreciation%20of%20Ethics%20and%20Civilizations">🔗 View</a></td>
   </tr>
 </table>
 
