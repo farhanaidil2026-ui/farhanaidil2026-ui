@@ -42,12 +42,16 @@
 - 💻 **Participant** - SULAM UTHM: Python Programming for Data Analysts 2024
 
 ### 🎤 Industry Engagement
+### Semester 1 : 
 - Pittsburgh Paint Company (PPG) Industry Talk
 - Industry Talk with Ts. Hj. Abdul Alim Bin Abdul Muttalib (Head of Technology and Innovation of Serunai Commerce Sdn Bhd)
 - ASEAN Quantum Summits Seminar
 - Festival of Ideas (FOI) Putrajaya
 - Industry Visit to JCorp
 - Industry Talk with Qaisana Rohzan (Application Developer Analyst II at PPG)
+
+### Semester 2 :
+- *Coming soon*
 
 ---
 
@@ -60,28 +64,33 @@
     <th>Repository</th>
   </tr>
   <tr>
-    <td><code>SECR1013</code></td>
-    <td>Digital Logic</td>
+    <td><code>SECI1143</code></td>
+    <td>PROBABILITY & STATISTICAL DATA ANALYSIS</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECR1013-Digital-Logic">🔗 View</a></td>
   </tr>
   <tr>
     <td><code>SECP1513</code></td>
-    <td>Technology & Information Systems</td>
+    <td>SYSTEM ANALYSIS AND DESIGN (WBL)</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECP1513-Technology%20%26%20Information%20System">🔗 View</a></td>
   </tr>
   <tr>
-    <td><code>SECJ1013</code></td>
-    <td>Programming Technique 1</td>
+    <td><code>SECJ1023</code></td>
+    <td>PROGRAMMING TECHNIQUE II</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECJ1013-Programming-1">🔗 View</a></td>
   </tr>
   <tr>
-    <td><code>SECI1013</code></td>
-    <td>Discrete Structure</td>
+    <td><code>SECV2113</code></td>
+    <td>HUMAN COMPUTER INTERACTION</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/SECI1013-Discrete-Structure">🔗 View</a></td>
   </tr>
   <tr>
-    <td><code>ULRS1032</code></td>
-    <td>Integrity and Anti-Corruption</td>
+    <td><code>SECR1033</code></td>
+    <td>COMPUTER ORGANIZATION AND ARCHITECTURE</td>
+    <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td><code>ULRS1182</code></td>
+    <td>APPRECIATION OF ETHICS AND CIVILIZATIONS</td>
     <td><a href="https://github.com/farhanaidil2026-ui/Year1-Sem1-Courses/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption">🔗 View</a></td>
   </tr>
 </table>
