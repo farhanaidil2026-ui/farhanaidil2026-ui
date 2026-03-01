@@ -101,7 +101,7 @@
 
 **Programming Languages** `C++` `Python` `Java` `SQL` `NoSQL`
 
-**Development Tools** `Visual Studio Code` `IDE`
+**Development Tools** `Visual Studio Code` `IDE` `Rust`
 
 **Productivity & Office** `Microsoft Word` `Microsoft Excel` `Google Docs` `Google Sheets`
 
