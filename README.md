@@ -99,7 +99,7 @@
 
 ## 🛠️ Technical Skills
 
-**Programming Languages** `C++` `Python` `Java` `SQL`
+**Programming Languages** `C++` `Python` `Java` `SQL` `NoSQL`
 
 **Development Tools** `Visual Studio Code` `IDE`
 
