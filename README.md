@@ -31,7 +31,7 @@
 ## 💼 Experience Highlights
 
 ### 🎯 Leadership & Involvement
-- **Committee Member (Activity)** - SUSKOM'25, UTM
+- **Committee Member (Activity)** - SUSKOM'25, UTM (2025)
 - **President** - Math & Science Club, SMK Layang-Layang (2024)
 - **Prefect** - Spiritual Department, SMK Layang-Layang (2020-2024)
 
