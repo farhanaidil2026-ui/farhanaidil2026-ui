@@ -55,7 +55,7 @@
 
 ---
 
-## 📚 Coursework for Current Semester
+## 📚 Coursework for Current Semester (2)
 
 <table>
   <tr>
