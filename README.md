@@ -97,15 +97,16 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills and Tools
 
-**Programming Languages** `C++` `Python` `Java` `SQL` `NoSQL`
+<br/>
 
-**Development Tools** `Visual Studio Code` `IDE` `Rust`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,js,html,mysql,git,github,vscode,blender,figma,photoshop,bash,powershell,unity,arduino,latex,linux&perline=9" />
+</p>
 
-**Productivity & Office** `Microsoft Word` `Microsoft Excel` `Google Docs` `Google Sheets`
+<br/>
 
-**Creative Software** `Canva` `Clip Studio Paint` `Krita` `Photoshop` `CapCut`
 
 ## 🌐 Languages I Speak
 
