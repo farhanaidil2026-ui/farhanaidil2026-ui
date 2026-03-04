@@ -120,7 +120,8 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaidil2026-ui&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
+<br/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaidil2026-ui&theme=github-compact&background=ffffff&ring=dc143c&fire=ff0038&currStreakLabel=000000" alt="Streak Stats" />
 </p>
 
 
