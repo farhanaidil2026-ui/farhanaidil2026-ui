@@ -118,6 +118,13 @@
 
 <div align="center">
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ExoticCrafter&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
+  <img width="48%" src="https://komarev.com/ghpvc/?username=ExoticCrafter&color=800000&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanaidil2026-ui&theme=github-compact&hide_border=true&area=true)
 
 </div>
