@@ -120,8 +120,7 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaidil2026-uir&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=farhanaidil2026-ui&color=800000&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaidil2026-ui&theme=maroongold&background=0d0d0d&ring=b8860b&fire=b8860b&currStreakLabel=b8860b" alt="Streak Stats" />
 </p>
 
 
