@@ -125,7 +125,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaidil2026-ui&theme=github-compact&background=ffffff&ring=ff9f00&fire=ff6700&currStreakLabel=000000" alt="Streak Stats" />
 </p>
 
-![3D contribution graph](profile-3d-contrib/profile-night-view.svg)
+![3D contribution graph](profile-3d-contrib/profile-green-animate.svg)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanaidil2026-ui&theme=github-compact&hide_border=true&area=true)
 
