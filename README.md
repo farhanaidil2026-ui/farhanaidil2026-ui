@@ -49,6 +49,7 @@
 - Festival of Ideas (FOI) Putrajaya
 - Industry Visit to JCorp
 - Industry Talk with Qaisana Rohzan (Application Developer Analyst II at PPG)
+- JCorp Open Day
 
 ### Semester 2 :
 - *Coming soon*
