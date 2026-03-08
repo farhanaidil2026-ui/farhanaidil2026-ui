@@ -123,8 +123,10 @@
 
 <p align="center">
 <br/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanaidil2026-ui&theme=github-compact&background=ffffff&ring=ff9f00&fire=ff6700&currStreakLabel=000000" alt="Streak Stats" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhanaidil2026-ui&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<p>
+  
+*These looks better in Dark Mode*
 
 ![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
 
