@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/aidil-farhan-475589396/">
-  <img src="https://img.shields.io/badge/Connect-ff0090?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:farhanaidil2026@gmail.com">
