@@ -125,9 +125,7 @@
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhanaidil2026-ui&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <p>
-  
-*These looks better in GitHub Dark Mode*
-</br>
+
 
 ![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
 
