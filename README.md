@@ -128,7 +128,6 @@
   
 *These looks better in GitHub Dark Mode*
 </br>
-*You can see this better in Dark Mode*
 
 ![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
 
