@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aidil%20Farhan&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
-
+CXVVXVX
 <br/>
 
 <a href="https://www.linkedin.com/in/aidil-farhan-475589396/">
