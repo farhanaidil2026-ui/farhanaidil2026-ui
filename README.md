@@ -127,7 +127,7 @@
 <p>
 
 
-![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
+![3D contribution graph](profile-3d-contrib/profile-green-animate.svg)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanaidil2026-ui&theme=github-compact&hide_border=true&area=true)
 
