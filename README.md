@@ -123,7 +123,7 @@
 
 <p align="center">
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhanaidil2026-ui&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhanaidil2026-ui&theme=github-compact&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <p>
 
 
